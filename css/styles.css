@@ -223,7 +223,7 @@ section {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url("../images/vila_modena_0010_purple-min.jpg") center no-repeat;
+  background: url("./images/vila_modena_0010_purple-min.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -235,7 +235,7 @@ section {
 .hero-galerija {
   width: 100%;
   height: 100vh;
-  background: url("../Images/vila_modena_0014_small-min.jpg") center no-repeat;
+  background: url("./Images/vila_modena_0014_small-min.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -247,7 +247,7 @@ section {
 .hero-subotica {
   width: 100%;
   height: 100vh;
-  background: url("../images/Subotica_small_1.jpg") center no-repeat;
+  background: url("./images/Subotica_small_1.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -259,7 +259,7 @@ section {
 .hero-sobe {
   width: 100%;
   height: 100vh;
-  background: url("../images/vila_modena_0006_purple-min.jpg") center no-repeat;
+  background: url("./images/vila_modena_0006_purple-min.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -271,7 +271,7 @@ section {
 .hero-contact {
   width: 100%;
   height: 100vh;
-  background: url("../images/kontakt_small.jpg") center no-repeat;
+  background: url("./images/kontakt_small.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
